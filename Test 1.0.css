@@ -1,0 +1,37 @@
+body {
+    background-image: url(Goo2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1 {
+    background-color: lightskyblue;
+    color: blue;
+    text-align: center;
+    border-bottom: 2px solid aquamarine;
+    margin: 1px;
+    font-family: fantasy;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+a:link {
+    color:blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: purple;
+    background-color: purple;
+    text-decoration: none;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color:darkblue;
+    background-color: transparent;
+    text-decoration: none;
+}

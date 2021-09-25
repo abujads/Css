@@ -1,0 +1,47 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/1880555.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1 {
+    color:lightgreen;
+    text-align: center;
+    background-color: darkgreen;
+    border: 3px solid lightgreen;
+    font-family: cursive;
+    margin: 2px;
+}
+p {
+    color:red;
+    text-align: center;
+    background-color: greenyellow;
+    font-family: fantasy;
+    border-bottom: 2px solid red;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none
+}
+a:visited {
+    color: red;
+    background-color: purple;
+    text-decoration: none
+}
+a:hover {
+    color:lightgreen;
+    background-color: transparent;
+    text-decoration: none
+}
+a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: none
+}
+div{
+    background-color: hsla(192, 73%, 33%, 0.47);
+    color: darkgray;font-family: cursive;
+}
